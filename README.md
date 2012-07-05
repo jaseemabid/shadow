@@ -10,3 +10,15 @@ http://code.google.com/android/ under apache license
 * About slim, slim themes : http://slim.berlios.de/
 * Instructions, d10n      : https://wiki.archlinux.org/index.php/SLiM
 * License                 : GPL
+
+### Quick Installation instructions
+
+* Copy all contents to `/usr/share/slim/themes/Shadow/`
+* Run `slim -p /usr/share/slim/themes/Shadow/` to test the theme
+* Edit `/etc/slim.conf` to set Shadow as default theme
+
+```
+	#current_theme      default
+	current_theme       Shadow
+```
+* Hack Shadow/slim.theme as you wish
