@@ -30,7 +30,7 @@ welcome_font				Droid Sans mono:size=20:bold:dpi=75
 welcome_color				#666666
 welcome_x					15
 welcome_y					20
-welcome_msg				theblackpearl
+welcome_msg				%host
 
 username_msg				Username
 username_font				Droid Sans mono:size=14:bold:dpi=75
